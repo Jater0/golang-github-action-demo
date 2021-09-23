@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func Cat() string {
-	return "Fuck Jason"
+	return "Fuck me"
 }
 
 func main() {
